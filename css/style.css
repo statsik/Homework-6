@@ -503,6 +503,9 @@ button{
 .headline{
     padding: 96px 0;
 }
+.headline-list-part-icon{
+    display: none;
+}
 .visually-hidden{
     position: absolute;
     width: 1px;
